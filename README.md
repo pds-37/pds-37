@@ -39,7 +39,7 @@ A secure multi-user health management platform with AI-based anomaly detection, 
 **AI & ML:** Supervised Learning, Regression, Classification, Isolation Forest, Model Evaluation  
 **Data & Analytics:** Data Analysis, EDA, Data Visualization  
 **Web Development:** REST APIs, Backend Development, System Design  
-**Cybersecurity:** Network Analysis, Security Monitoring, Vulnerability Assessment  
+**Cybersecurity:** Network Analysis, Vulnerability Assessment, Web Application Security Testing  
  
 **Frameworks:** React.js, Node.js, Express.js  
 **Databases:** MySQL, MongoDB  

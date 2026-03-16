@@ -8,11 +8,11 @@ I focus on **end-to-end ownership**: designing, building, deploying, and clearly
 
 ## My Github Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=) 
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=pds-37) 
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=) 
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=pds-37) 
 
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=)
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=pds-37)
 
 ---
 

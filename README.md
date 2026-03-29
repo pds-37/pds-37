@@ -2,7 +2,7 @@
  
 I'm a **Cybersecurity Enthusiast & Full-Stack Developer** who enjoys building **real-world, analytical systems** — especially **threat detection platforms, AI-assisted decision engines, health-tech applications, and backend architectures**.
 
-🌐 **Portfolio:** [https://priyanshutiwari-portfolio.vercel.app/](https://priyanshutiwari-portfolio.vercel.app/#hero)
+🌐 **Portfolio:** [https://priyanshutiwari-portfolio.vercel.app/](https://portfolio-tau-eight-76.vercel.app/#hero)
 
 I focus on **end-to-end ownership**: designing, building, deploying, and clearly explaining systems.
 

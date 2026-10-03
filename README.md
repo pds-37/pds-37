@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/pds-37/pds-37/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Priyanshu%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20%7C%20AI-Integrated%20%7C%20Full-Stack&descAlignY=58&descSize=16" width="100%" />
 
 <div align="center">
@@ -90,8 +92,6 @@ Final-year B.Tech CSE student (graduating **July 2027**) building secure, AI-int
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pds-37&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/pds-37/pds-37/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 

@@ -15,17 +15,17 @@
 ### 🛡️ GuardianOS — AI Agent Security Firewall
 A security layer that evaluates LLM prompts, tool actions, and agent behavior **before execution**, using risk scoring and policy-based filtering. Sensitive actions are routed to human approval, with verifiable audit logs and agent-memory validation. Security decisions are tested against false-positive and false-negative benchmarks.
 **Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, Redis, Neo4j, Qdrant
-🔗 [Repo](https://github.com/YOUR_USERNAME/REPO_NAME)
+🔗 [Repo](https://github.com/pds-37/Guardian-Os)
 
 ### 🔏 HashGuard — Tamper-Evident Digital Evidence Platform
 Upload, fingerprint, store, and verify digital evidence with SHA-256 hashing. REST workflows cover evidence metadata, integrity verification, and chain-of-custody tracking.
 **Stack:** React.js, Node.js, Express.js, PostgreSQL, SHA-256
-🔗 [Repo](https://github.com/YOUR_USERNAME/REPO_NAME)
+🔗 [Repo](https://github.com/pds-37/Hash-Guard)
 
 ### 🏥 SwasthaParivar (ArogyaNest) — Family Health Platform
 Full-stack health platform with multi-user family profiles, centralized health records, medical report management, JWT auth with role-based access control, and Gemini-powered report summaries and insights.
 **Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API
-🔗 [Repo](https://github.com/YOUR_USERNAME/REPO_NAME)
+🔗 [Repo](https://github.com/pds-37/SwasthaParivar)
 
 ### 🚆 Chanakya — AI Railway Routing Engine
 Analyzes traffic flow and optimizes train scheduling, reducing simulated delays by **65%** and increasing throughput by **18%**.

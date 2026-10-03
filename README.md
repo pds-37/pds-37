@@ -3,7 +3,7 @@
 **Final-year CSE student building secure, AI-integrated software** — AI agent guardrails, tamper-evident evidence systems, and full-stack health-tech platforms.
 
 🌐 **Portfolio:** [portfolio-pds-mrpds-projects-b9122a12.vercel.app](https://portfolio-pds-mrpds-projects-b9122a12.vercel.app/)
-💼 **LinkedIn:** [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
+💼 **LinkedIn:** [YOUR_LINKEDIN](https://www.linkedin.com/in/priyanshu-tiwari-pds37/)
 📧 **Email:** work.priyanshu37@gmail.com
 
 🎯 **Open to:** Software engineering intern / analyst roles · Graduating July 2027

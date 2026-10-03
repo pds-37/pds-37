@@ -12,7 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tiwari-pds37/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.priyanshu37@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=pds-37&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+<br/>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpds-37&label=Profile%20Views&labelColor=%230d1117&countColor=%2358a6ff&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -20,49 +22,20 @@
 
 ## 👋 About Me
 
-I'm a **final-year B.Tech CSE student** (graduating **July 2027**) who builds secure, AI-integrated software: AI agent guardrails, tamper-evident evidence systems, and full-stack health-tech platforms.
+Final-year B.Tech CSE student (graduating **July 2027**) building secure, AI-integrated software: AI agent guardrails, tamper-evident evidence systems, and full-stack health-tech platforms.
 
 🎯 **Open to:** Software engineering intern / analyst roles
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛡️ GuardianOS — AI Agent Security Firewall
-A security layer that evaluates LLM prompts, tool actions, and agent behavior **before execution**, using risk scoring and policy-based filtering. Sensitive actions are routed to human approval, with verifiable audit logs and agent-memory validation. Security decisions are tested against false-positive and false-negative benchmarks.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-🔗 [Repo](https://github.com/pds-37/Guardian-Os)
-
-### 🔏 HashGuard — Tamper-Evident Digital Evidence Platform
-Upload, fingerprint, store, and verify digital evidence with SHA-256 hashing. REST workflows cover evidence metadata, integrity verification, and chain-of-custody tracking.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-🔗 [Repo](https://github.com/pds-37/Hash-Guard)
-
-### 🏥 SwasthaParivar (ArogyaNest) — Family Health Platform
-Full-stack health platform with multi-user family profiles, centralized health records, medical report management, JWT auth with role-based access control, and Gemini-powered report summaries and insights.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-🔗 [Repo](https://github.com/pds-37/SwasthaParivar)
-
-### 🚆 Chanakya — AI Railway Routing Engine
-Analyzes traffic flow and optimizes train scheduling, reducing simulated delays by **65%** and increasing throughput by **18%**.
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **🛡️ GuardianOS**<br/>AI Agent Firewall | Evaluates LLM prompts, tool actions, and agent behavior before execution using risk scoring and policy-based filtering. Human-in-the-loop approvals, verifiable audit logs, agent-memory validation, tested against false-positive/negative benchmarks. | Python, FastAPI, React, TypeScript, PostgreSQL, Redis, Neo4j, Qdrant | [Repo](https://github.com/pds-37/Guardian-Os) |
+| **🔏 HashGuard**<br/>Digital Evidence Platform | Upload, fingerprint, store, and verify digital evidence with SHA-256. REST workflows for metadata, integrity verification, and chain-of-custody tracking. | React, Node.js, Express, PostgreSQL, SHA-256 | [Repo](https://github.com/pds-37/Hash-Guard) |
+| **🏥 SwasthaParivar**<br/>Family Health Platform | Multi-user family profiles, centralized health records, report management with JWT + RBAC, and Gemini-powered report summaries and insights. | React, Node.js, Express, MongoDB, Gemini API | [Repo](https://github.com/pds-37/SwasthaParivar) |
+| **🚆 Chanakya**<br/>AI Railway Routing | Optimizes train scheduling from traffic-flow analysis: **65% fewer simulated delays**, **18% higher throughput**. | Python, AI/ML, Real-Time Dashboards | — |
 
 ---
 
@@ -77,16 +50,13 @@ Analyzes traffic flow and optimizes train scheduling, reducing simulated delays 
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | C++, Python, JavaScript, TypeScript, SQL |
-| **Backend** | Node.js, Express.js, FastAPI, REST APIs, JWT, RBAC |
-| **Frontend** | React.js, HTML5, CSS3 |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
-| **AI / LLM** | LLM applications, AI agents, RAG, vector search, prompt engineering, Gemini API, Groq API |
-| **Security** | Threat detection, incident response, cloud security, Nmap, Wireshark, Burp Suite, OWASP ZAP |
-| **Cloud & Tools** | AWS, Docker, Git, GitHub, Postman, Linux |
-| **Core CS** | DSA, OOP, DBMS, OS, Computer Networks, System Design |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,fastapi,postgres,mongodb,mysql,redis,neo4j,aws,docker,git,github,linux,postman&perline=10" />
+</p>
+
+**AI / LLM:** RAG, AI agents, vector search, prompt engineering, Gemini API, Groq API
+**Security:** Threat detection, incident response, cloud security, Nmap, Wireshark, Burp Suite, OWASP ZAP
+**Core CS:** DSA, OOP, DBMS, OS, Computer Networks, System Design
 
 ---
 
@@ -101,16 +71,10 @@ Analyzes traffic flow and optimizes train scheduling, reducing simulated delays 
 
 ---
 
-## 👥 Leadership
+## 👥 Leadership & Education
 
 **Growth & Strategy Director**, Rotaract Club of GL Bajaj *(promoted from Joint Secretary · Jul 2025 – Present)*
-Leads student teams across growth initiatives, campus events, and community programs.
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering** — GL Bajaj Institute of Technology and Management, Greater Noida · CGPA 8.47 · *Oct 2023 – Jul 2027*
+**B.Tech CSE** — GL Bajaj Institute of Technology and Management · CGPA 8.47 · *Oct 2023 – Jul 2027*
 
 ---
 
@@ -124,6 +88,10 @@ Leads student teams across growth initiatives, campus events, and community prog
 <img src="https://streak-stats.demolab.com?user=pds-37&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pds-37&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/pds-37/pds-37/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 

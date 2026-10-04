@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/pds-37">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Final-year+CSE+student+%7C+GL+Bajaj;Building+AI+agent+security+firewalls;Tamper-evident+evidence+platforms;Full-stack+apps+with+React+%26+Node.js;Open+to+SDE+%2F+analyst+internships" alt="Typing intro" />
-</a>
+
 
 <br/>
 
